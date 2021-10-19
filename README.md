@@ -1,0 +1,1 @@
+Solo hacer git clone o fork a este repo y en index.js correrlo con code runer
